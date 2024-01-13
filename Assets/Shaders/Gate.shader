@@ -304,7 +304,7 @@ Shader "FullScreen/Gate"
 	ZTest Always
 	Blend SrcAlpha OneMinusSrcAlpha
 	Cull Off
- 
+
 	HLSLPROGRAM
 	#pragma fragment FullScreenPass
 	ENDHLSL
